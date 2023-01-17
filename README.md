@@ -20,6 +20,6 @@ I tried to achieve:
 8. results.json
 
 
-##Data Pipeline
+## Data Pipeline
 
 Data Ingestion(Azure Storage)--> Transformation(Databricks)--> Loading to Presentation Layer(Azure Storage)---> Analysis(Power BI) 
